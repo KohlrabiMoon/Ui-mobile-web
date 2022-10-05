@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav {
+    background-color: #273c75;
+}
+
+nav #menu-light li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#menu-light {
+    display: column;
+}
